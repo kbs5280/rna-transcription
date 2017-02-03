@@ -1,3 +1,5 @@
+NOTE: _This is a simple exercise I used to practice Ruby fundamentals._
+
 # Rna Transcription
 
 Write a program that, given a DNA strand, returns its RNA complement (per RNA transcription).
